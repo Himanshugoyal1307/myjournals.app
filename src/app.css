@@ -1,0 +1,608 @@
+.center {
+    height: 20rem;
+
+    background-color: rgb(23, 18, 18);
+    justify-content: center;
+    border: 1px solid black;
+    text-align: center;
+
+
+}
+
+
+.center2 {
+    height: 20rem;
+
+    background-color: rgb(23, 18, 18);
+    justify-content: center;
+    border: 1px solid black;
+    text-align: center;
+
+
+}
+
+.text2 {
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+
+    margin-top: 15rem;
+    position: absolute;
+    top: 10rem;
+    left: 15rem;
+
+
+}
+
+.text3 {
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+
+    margin-top: 15rem;
+    position: absolute;
+    top: 17rem;
+    left: 11rem;
+
+
+}
+
+
+
+.card-deck {
+    display: flex;
+
+    flex-direction: row;
+
+    height: 20rem;
+    width: 60rem;
+    text-align: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+
+.card {
+    width: 40rem;
+    margin-right: 2rem;
+    margin-top: 2rem;
+    margin-left: 5rem;
+
+}
+
+.footer1 {
+    height: 20rem;
+    width: 200%;
+    background-color: bisque;
+    position: absolute;
+    top: 120rem;
+
+}
+
+.video1 {
+    position: absolute;
+    bottom: 5orem;
+    right: 20rem;
+
+}
+
+.act1 {
+    height: 20rem;
+    width: 20rem;
+    border: 3px solid black;
+
+
+}
+
+.head2 {
+
+    height: 10rem;
+    width: 100rem;
+    background-color: rgb(78, 73, 73);
+    border: 3px solid black;
+
+}
+
+.head9 {
+    width: 15rem;
+    height: 10rem;
+    position: absolute;
+    top: 10rem;
+
+}
+
+.img3 {
+    height: 15rem;
+
+}
+
+.activity2 {
+    position: absolute;
+    left: 10rem;
+    top: 20rem;
+
+}
+
+
+.card2 {
+
+    width: 40rem;
+    margin-right: 2rem;
+    margin-top: 5rem;
+    margin-left: 5rem;
+}
+
+
+.head4 {
+    font-size: xx-large;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+
+    margin-top: 15rem;
+    position: absolute;
+    top: 3rem;
+    left: 5rem;
+
+}
+
+.head6 {
+
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+
+    margin-top: 15rem;
+    position: absolute;
+    top: -8rem;
+    left: 40rem;
+
+}
+
+.footer2 {
+    height: 20rem;
+    width: 200%;
+    background-color: rgb(20, 20, 19);
+    position: absolute;
+    top: 150rem;
+
+}
+
+.head7 {
+
+    color: rgb(171, 107, 30);
+    font-family: Arial, Helvetica, sans-serif;
+
+    margin-top: 15rem;
+    position: absolute;
+    top: 10rem;
+    left: 20rem;
+
+}
+
+
+.foodcard {
+    width: 50rem;
+    position: absolute;
+    top: 30rem;
+
+}
+
+.travelcard {
+
+    position: absolute;
+    top: 30rem;
+    right: 2rem;
+
+}
+
+/* for activity file */
+
+.actfile {
+
+    width: 40rem;
+    height: 40rem;
+    border: 3px solid black;
+    border-radius: 3rem;
+    position: absolute;
+    top: 5rem;
+    bottom: 5rem;
+    left: 20rem;
+
+}
+
+.acthead1 {
+    font-size: 3rem;
+    position: absolute;
+    left: 2rem;
+}
+
+.acthead2 {
+    font-size: x-large;
+    height: 3rem;
+    width: 25rem;
+    position: absolute;
+    top: 1rem;
+    right: 2rem;
+
+}
+
+.acthead {
+
+    position: absolute;
+    top: 5rem;
+    left: 2rem;
+
+}
+
+.acthead3 {
+    height: 20rem;
+    width: 35rem;
+    position: absolute;
+    top: 10rem;
+    left: 2.5rem;
+    overflow: hidden;
+}
+
+.acthead4 {
+    font-size: larger;
+    position: absolute;
+    bottom: 6rem;
+    right: 5rem;
+}
+
+.acthead5 {
+    position: absolute;
+    bottom: 5rem;
+
+}
+
+.acthead6 {
+    font-size: x-large;
+    position: absolute;
+    bottom: 1rem;
+    left: 15rem;
+}
+
+.photohead1 {
+    height: 30rem;
+    width: 35rem;
+    border: 2px solid black;
+    border-radius: 3rem;
+    position: absolute;
+    top: 10rem;
+    left: 20rem;
+}
+
+.photohead2 {
+    position: absolute;
+    left: 1.5rem;
+    top: 2rem;
+
+
+}
+
+.photodropdown {
+    height: 3rem;
+    width: 10rem;
+    position: absolute;
+    top: 2rem;
+    right: 3rem;
+}
+
+
+.photohead3 {
+    position: absolute;
+    left: 1rem;
+    top: 15rem;
+
+
+}
+
+.photohead4 {
+    font-size: large;
+    position: absolute;
+    left: 12rem;
+    top: 17rem;
+
+
+}
+
+
+
+
+.photohead5 {
+    position: absolute;
+    left: 12rem;
+    bottom: 1rem;
+
+
+}
+
+
+/* forusermoode css */
+
+.modehead1 {
+    height: 35rem;
+    width: 35rem;
+    border: 2px solid black;
+    border-radius: 3rem;
+    position: absolute;
+    top: 10rem;
+    left: 20rem;
+
+}
+
+.modehead8 {
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+
+}
+
+.modehead2 {
+    font-size: x-large;
+    position: absolute;
+    top: 1.5rem;
+    right: 8rem;
+
+}
+
+.modehead3 {
+    position: absolute;
+    top: 20rem;
+    left: 1rem;
+
+}
+
+.modehead4 {
+    height: 5rem;
+    width: 30rem;
+    position: absolute;
+    top: 25rem;
+    left: 2rem;
+
+}
+
+.modehead5 {
+    position: absolute;
+    top: 5rem;
+    left: 1rem;
+
+}
+
+.modehead6 {
+    height: 10rem;
+    width: 30rem;
+    position: absolute;
+    top: 11rem;
+    left: 2rem;
+
+}
+
+.modehead7 {
+    position: absolute;
+    bottom: 1rem;
+    left: 15rem;
+
+}
+
+.taskhead1 {
+    height: 35rem;
+    width: 35rem;
+    border: 2px solid black;
+    border-radius: 3rem;
+    position: absolute;
+    top: 10rem;
+    left: 20rem;
+
+
+}
+
+.taskhead2 {
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+}
+
+.taskhead3 {
+    font-size: x-large;
+    position: absolute;
+    top: 1.5rem;
+    right: 8rem;
+
+}
+
+.taskhead4 {
+    position: absolute;
+    top: 5rem;
+    left: 1rem;
+}
+
+.taskhead5 {
+    height: 5rem;
+    width: 30rem;
+    position: absolute;
+    top: 10rem;
+    left: 2rem;
+}
+
+.taskhead6 {
+    position: absolute;
+    top: 15rem;
+    left: 1rem;
+}
+
+.taskhead7 {
+    height: 10rem;
+    width: 30rem;
+    position: absolute;
+    top: 20rem;
+    left: 2rem;
+}
+
+.taskhead8 {
+    position: absolute;
+    bottom: 1rem;
+    left: 15rem;
+
+}
+
+.modal {
+    position: absolute;
+    bottom: 50rem;
+
+
+}
+
+.usercenter {
+    position: absolute;
+    left: 13rem;
+    top: 70rem;
+
+
+
+}
+
+.usertravel {
+    position: absolute;
+    top: 5rem;
+
+
+}
+
+.sidebaruser {
+
+    width: 8rem;
+    height: 18rem;
+    border-radius: 2rem;
+    position: absolute;
+    left: 1rem;
+    top: 35rem;
+    background-color: rgb(23, 125, 228);
+}
+
+
+/* making a card with grid */
+
+
+.grid {
+    display: grid;
+    width: 114em;
+    grid-gap: 6rem;
+    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+    align-items: start;
+
+}
+
+.travelcard5 {
+
+    position: absolute;
+    left: 14rem;
+    top: 32rem;
+}
+
+.foodcard5 {
+
+    position: absolute;
+    left: 44rem;
+    top: 32rem;
+}
+
+.travelloop-card {
+    position: absolute;
+    top: 5rem;
+    left: 3rem;
+
+
+}
+
+.Foodloop-card {
+    position: absolute;
+    top: 5rem;
+    left: 3rem;
+
+
+}
+
+.usermoodloop-card {
+    position: absolute;
+    top: 5rem;
+    left: 3rem;
+
+
+}
+
+.activityloop-card {
+    position: absolute;
+    top: 5rem;
+    left: 3rem;
+
+
+}
+
+.footer2-list {
+    position: absolute;
+    left: 30rem;
+    top: 3rem;
+    color: antiquewhite;
+    font-size: large;
+    padding: 5rem;
+}
+
+.footer2-head {
+    position: absolute;
+    left: 15rem;
+    top: 1rem;
+    color: antiquewhite;
+    font-size: xx-large;
+
+}
+
+.footer1-list {
+    position: absolute;
+    left: 30rem;
+    top: 2rem;
+    color: rgb(21, 20, 18);
+    font-size: large;
+    padding: 5rem;
+}
+
+.footer1-head {
+    position: absolute;
+    left: 15rem;
+    top: 1rem;
+    color: rgb(25, 24, 22);
+    font-size: xx-large;
+}
+
+.homephotos-card {
+    position: absolute;
+    top: 55rem;
+
+}
+
+.homefoodtravel-card {
+    position: absolute;
+    top: 50rem;
+    left: 14rem;
+
+
+}
+
+.image-card {
+
+    position: absolute;
+    left: 1rem;
+    top: 82rem;
+}
+
+.sidebar1-card {
+    position: absolute;
+    left: 1.5rem;
+    top: 24rem;
+
+}
+
+.sidebar2-card {
+    position: absolute;
+    left: 1rem;
+    top: 34rem;
+
+}
